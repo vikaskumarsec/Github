@@ -1,0 +1,6 @@
+git init - To initialize
+git status - To check status
+git add - To add a files
+git rm --cached file - To unstage
+git commit -m " add your comment"
+git restore - To restore deleted files
