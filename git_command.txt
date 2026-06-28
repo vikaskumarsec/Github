@@ -6,6 +6,6 @@ git commit -m " add your comment"
 git restore - To restore deleted files
 git config --global user.email "vikas.kumarsec@gmail.com"                                                                                           
 git config --global user.name "Vikas Kumar"                                                                                                         
-git remote add origin https://github.com/vikaskumarsec/Github.git                                                                                                             
+git remote add origin https://github.com/vikaskumarsec/Github.git
 git remote -v                                                                                                                                       
 git push origin master   
